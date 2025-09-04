@@ -25,9 +25,9 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>🔹 AWS Serverless Project</h3>
-      <p>☁️ Showcasing AWS Serverless ecosystem<br>(Lambda, API Gateway, DynamoDB, S3, Step Functions, etc.)</p>
-      <a href="https://github.com/your-username/aws-serverless">
+      <h3>🔹 AWS Project</h3>
+      <p>☁️ Focused on building in AWS Cloud<br>Hands-on with key AWS services and practical learning path</p>
+      <a href="https://github.com/your-username/aws-project">
         🔗 View Project
       </a>
     </td>
